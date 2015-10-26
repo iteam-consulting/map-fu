@@ -1,0 +1,128 @@
+{
+	"styles": [
+		{
+			"featureType": "administrative.country",
+			"stylers": [
+				{
+					"visibility": "off"
+				}
+			]
+		},
+		{
+			"featureType": "administrative.province",
+			"stylers": [
+				{
+					"visibility": "off"
+				}
+			]
+		},
+		{
+			"featureType": "road.highway",
+			"stylers": [
+				{
+					"visibility": "off"
+				}
+			]
+		},
+		{
+			"featureType": "poi",
+			"stylers": [
+				{
+					"visibility": "off"
+				}
+			]
+		},
+		{
+			"featureType": "administrative",
+			"stylers": [
+				{
+					"visibility": "off"
+				}
+			]
+		},
+		{
+			"featureType": "water",
+			"elementType": "labels",
+			"stylers": [
+				{
+					"visibility": "off"
+				}
+			]
+		},
+		{
+			"featureType": "landscape.natural",
+			"stylers": [
+				{
+					"visibility": "on"
+				}
+			]
+		},
+		{
+			"featureType": "water",
+			"stylers": [
+				{
+					"color": "#ffffff"
+				}
+			]
+		},
+		{
+			"featureType": "road",
+			"stylers": [
+				{
+					"visibility": "off"
+				}
+			]
+		},
+		{
+			"featureType": "landscape",
+			"stylers": [
+				{
+					"visibility": "on"
+				},
+				{
+					"color": "#75cc7d"
+				},
+				{
+					"saturation": -83
+				}
+			]
+		},
+		{
+			"featureType": "administrative.province",
+			"elementType": "geometry.stroke",
+			"stylers": [
+				{
+					"visibility": "on"
+				},
+				{
+					"color": "#4c3612"
+				}
+			]
+		}
+	],
+	"options": {
+		"draggable": true,
+		"scrollwheel": false,
+		"mapTypeControl": false,
+		"streetViewControl": false,
+		"center": {
+			"lat": 48.038377,
+			"lng": -115.076825
+		},
+		"zoom": 3
+	},
+	"locations": [
+		{
+			"title": "Alabama",
+			"address": "Alabama"
+		},
+		{
+			"title": "Anchorage, AL",
+			"address": "4711 Business Park Blvd. Unit I-30 Anchorage, Alaska 99503"
+		},
+		{
+			"title": "Kingman, AZ",
+			"address": "2606 Stockton Hill Rd. Kingman, AZ 86401-4187"
+		}
+	]
+}

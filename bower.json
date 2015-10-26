@@ -1,0 +1,27 @@
+{
+  "name": "map-fu",
+  "description": "Google maps wrapper with AngularJS",
+  "main": "map-fu.js",
+  "version": "1.0.0-beta1",
+  "authors": [
+    "mlynam@iteamnm.com"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "google maps",
+    "angular maps",
+    "maps"
+  ],
+  "dependencies": {
+    "angular": "*",
+    "jquery": "~2.1.4"
+  },
+  "homepage": "https://github.com/iteam-software/map-fu",
+  "moduleType": [],
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
